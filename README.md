@@ -10,8 +10,9 @@ Hey there, I'm Diana
 
 ### About Me :
 
-I am a 3rd year student majoring in Computer Science and I am very passionate about my future profession.
-I really enjoy programming and solving complex algorithms using various types of mathematics (discrete, linear algebra, geometry, mathematical analysis, etc.)
+🎓 Student of the Faculty of Computer Science and Cybernetics at Taras Shevchenko National University of Kyiv
+
+📫 How to reach me: dianka.ospanova.98@gmail.com
 
 ### Languages :
 
