@@ -10,7 +10,8 @@ Hey there, I'm Diana
 
 ### About Me :
 
-My name is Diana, and I am a 3rd year student majoring in Computer Science, Faculty of Computer Science and Cybernetics.
+I am a 3rd year student majoring in Computer Science and I am very passionate about my future profession.
+I really enjoy programming and solving complex algorithms using various types of mathematics (discrete, linear algebra, geometry, mathematical analysis, etc.)
 
 ### Languages :
 
